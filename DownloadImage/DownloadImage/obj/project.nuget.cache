@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jmGCJ2gxm8sm+FSEsRTWTFlbF3skFovOsriSQuoGAGD04Zkn4kvZhIHKU8m9G0gQ68cYyJKVE9gW0MX8Ag0x6Q==",
+  "success": true,
+  "projectFilePath": "/Users/syedfarhanraza/Projects/DownloadImage/DownloadImage/DownloadImage.csproj",
+  "expectedPackageFiles": [
+    "/Users/syedfarhanraza/.nuget/packages/aspose.html/22.5.0/aspose.html.22.5.0.nupkg.sha512",
+    "/Users/syedfarhanraza/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/syedfarhanraza/.nuget/packages/microsoft.win32.systemevents/4.5.0/microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "/Users/syedfarhanraza/.nuget/packages/system.drawing.common/4.5.0/system.drawing.common.4.5.0.nupkg.sha512",
+    "/Users/syedfarhanraza/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "/Users/syedfarhanraza/.nuget/packages/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "/Users/syedfarhanraza/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
+    "/Users/syedfarhanraza/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512",
+    "/Users/syedfarhanraza/.nuget/packages/system.text.encoding.codepages/4.5.0/system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
